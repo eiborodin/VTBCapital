@@ -1,0 +1,15 @@
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/bin/Debug/net6.0/VTBCapitalTasks
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/bin/Debug/net6.0/VTBCapitalTasks.deps.json
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/bin/Debug/net6.0/VTBCapitalTasks.runtimeconfig.json
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/bin/Debug/net6.0/VTBCapitalTasks.dll
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/bin/Debug/net6.0/VTBCapitalTasks.pdb
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/obj/Debug/net6.0/VTBCapitalTasks.csproj.AssemblyReference.cache
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/obj/Debug/net6.0/VTBCapitalTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/obj/Debug/net6.0/VTBCapitalTasks.AssemblyInfoInputs.cache
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/obj/Debug/net6.0/VTBCapitalTasks.AssemblyInfo.cs
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/obj/Debug/net6.0/VTBCapitalTasks.csproj.CoreCompileInputs.cache
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/obj/Debug/net6.0/VTBCapitalTasks.dll
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/obj/Debug/net6.0/refint/VTBCapitalTasks.dll
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/obj/Debug/net6.0/VTBCapitalTasks.pdb
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/obj/Debug/net6.0/VTBCapitalTasks.genruntimeconfig.cache
+/Users/eugeneborodin/RiderProjects/VTBCapitalTasks/VTBCapitalTasks/obj/Debug/net6.0/ref/VTBCapitalTasks.dll
