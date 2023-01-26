@@ -22,8 +22,8 @@ namespace VTBCapitalTasks
         public static void FirstTask()
         {
             var unsorted = new int[] { 0, 7, 99, -4, 6 };
-            var sortred = unsorted.QuickSort();
-            Console.WriteLine(string.Join(", ", sortred.Select(el=> el.ToString())));
+            var sorted = unsorted.QuickSort();
+            Console.WriteLine(string.Join(", ", sorted.Select(el => el.ToString())));
         }
 
         /// <summary>
@@ -46,7 +46,7 @@ namespace VTBCapitalTasks
             var input = "BjkdACfdsB123ACBBBBBAC";
             var regexp = new Regex(@"B[\w]{3}AC");
             var output = regexp.Matches(input).Count;
-            Console.WriteLine("{0} contains the pattern {1} times.", input, output);
+            Console.WriteLine("{0} contains the pattern {1} times", input, output);
         }
     }
 }
